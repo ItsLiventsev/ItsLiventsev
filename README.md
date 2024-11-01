@@ -1,3 +1,5 @@
+❗ Все новые обновления будут в Yonote - https://itsliventsev.yonote.ru/share/37126320-8e67-4b49-a455-18a6ce2cfafb
+
 ## Hi there 👋
 
 🔥 IT Network Systems Administration, teacher, helping students with IT!
