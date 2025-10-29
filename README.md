@@ -2,9 +2,7 @@
 
 ## Hi there 👋
 
-🔥 IT Network Systems Administration, teacher, helping students with IT!
-
-👓️ Demonstration Exam Expert and Regional Abilympics Expert in Russia
+🔥 IT Network Systems Administration
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsLiventsev&theme=vue)
 
