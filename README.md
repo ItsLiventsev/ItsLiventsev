@@ -5,7 +5,7 @@
 🇬🇧 **Vocational training master** at Polytechnic College № 8. I teach students in **"Network and System Administration"** and supervise academic & industrial practice. Almost 5 years of experience.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🎯_Эксперт--разработчик_оценочных_материалов_демонстрационного_экзамена-42B883?style=for-the-badge" alt="Expert"/>
+  <img src="https://img.shields.io/badge/🎯_Эксперт--разработчик_оценочных_материалов-42B883?style=for-the-badge" alt="Expert"/>
   <img src="https://img.shields.io/badge/🎓_Сетевой_и_системный_администратор-0067B3?style=for-the-badge" alt="Education"/>
 </p>
 
