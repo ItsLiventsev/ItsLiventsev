@@ -10,7 +10,7 @@
 </p>
 
 <details>
-  <summary>📇 <b>Подробнее об образовании и квалификации / More about education & qualifications</b></summary>
+  <summary>📇 <b>Об образовании и квалификации / More about education & qualifications</b></summary>
   <br/>
 
   **🇷🇺 Русский**
@@ -31,7 +31,7 @@
 
   <br/>
   <a href="https://pk-8.mskobr.ru/teacher-card/40da18d21e9cab0fff28553719532a7d">
-    <img src="https://img.shields.io/badge/📇_Карточка_работника_/_Teacher_Card-FF6B6B?style=for-the-badge" alt="Teacher Card"/>
+    <img src="https://img.shields.io/badge/📇_Подробнее_/_In_detail-FF6B6B?style=for-the-badge" alt="Teacher Card"/>
   </a>
 </details>
 
