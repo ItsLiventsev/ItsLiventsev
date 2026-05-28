@@ -5,7 +5,6 @@
 🇬🇧 **Vocational training master** at Polytechnic College № 8. I teach students in **"Network and System Administration"** and supervise academic & industrial practice. Almost 5 years of experience.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/🏅_Первая_квалификационная_категория-FFB800?style=for-the-badge" alt="Category"/>
   <img src="https://img.shields.io/badge/🎯_Эксперт--разработчик_оценочных_материалов_демонстрационного_экзамена-42B883?style=for-the-badge" alt="Expert"/>
   <img src="https://img.shields.io/badge/🎓_Сетевой_и_системный_администратор-0067B3?style=for-the-badge" alt="Education"/>
 </p>
@@ -79,24 +78,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📂 Чем наполнен мой профиль / What's in my profile
-
-🇷🇺 **Русский**
-- 🧪 **Проработка демонстрационных экзаменов** — пошаговые решения и сценарии
-- 🌐 **Сетевые конфигурации** — настройка маршрутизации, VLAN, VPN на Cisco
-- 🐧 **Администрирование ALT Linux** — сервисы, безопасность, автоматизация
-- 🪟 **Windows Server** — настройка ролей, AD, DNS, DHCP
-- 🎓 **Цифровой куратор (Digital Curator)** — материалы по дисциплине
-
-🇬🇧 **English**
-- 🧪 **Demo exam preparation** — step-by-step solutions and scenarios
-- 🌐 **Network configurations** — routing, VLAN, VPN setup on Cisco
-- 🐧 **ALT Linux administration** — services, security, automation
-- 🪟 **Windows Server** — roles setup, AD, DNS, DHCP
-- 🎓 **Digital Curator** — discipline materials
 
 ---
 
