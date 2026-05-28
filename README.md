@@ -106,15 +106,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItsLiventsev&theme=vue" alt="Profile Summary"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsLiventsev&show_icons=true&theme=vue&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLiventsev&layout=compact&theme=vue&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsLiventsev&theme=vue&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### 📫 Связаться со мной / Get in touch
