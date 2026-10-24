@@ -8,7 +8,7 @@ Vocational training instructor at a college. I train future Network & System Adm
 
 * 🌍  I'm based in Moscow, Russia
 * 🖥️  See my portfolio at [hh.ru](http://hh.ru/resume/5c7f23d7ff103dec010039ed1f746167696c67?print=true)
-* ✉️  You can contact me at [livencev01@ya.ru / LiventsevKA@edu.mos.ru](mailto:livencev01@ya.ru / LiventsevKA@edu.mos.ru)
+* ✉️  You can contact me at livencev01@ya.ru / LiventsevKA@edu.mos.ru
 * 🧠  I'm currently learning Educational Management
 
 <p align="left">
