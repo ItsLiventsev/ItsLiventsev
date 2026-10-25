@@ -1,37 +1,47 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kirill Liventsev
-=========================================================================================================================================
+# itsliventsev<img src="mark.svg" width="22" height="22" alt="#/">
 
-Industrial training master, IT specialist
------------------------------------------
+**industrial training master · it teacher · network & system administrator**
 
-Vocational training instructor at a college. I train future Network & System Administrators and supervise their academic and industrial practice. Five years of teaching experience.
+*мастер производственного обучения · преподаватель it · сетевой и системный администратор*
 
-* 🌍  I'm based in Moscow, Russia
-* 🖥️  See my portfolio at [hh.ru](http://hh.ru/resume/5c7f23d7ff103dec010039ed1f746167696c67?print=true)
-* ✉️  You can contact me at livencev01@ya.ru / LiventsevKA@edu.mos.ru
-* 🧠  I'm currently learning Educational Management
+[website](https://itsliventsev.github.io) · [articles](https://itsliventsev.github.io/articles.html) · [archive](https://itsliventsev.github.io/archive.html) · [hh.ru](http://hh.ru/resume/5c7f23d7ff103dec010039ed1f746167696c67?print=true)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a>
-</p>
+---
 
-<p align="left">
-  <a href="https://altlinux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/ALT_Linux-0067B3?style=for-the-badge&logo=linux&logoColor=white" alt="ALT Linux" title="ALT Linux" /></a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" title="Cisco" /></a>
-  <a href="https://eco-router.ru/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/EcoRouter-00A859?style=for-the-badge&logoColor=white" alt="EcoRouter" title="EcoRouter" /></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Networking-4285F4?style=for-the-badge&logo=wireshark&logoColor=white" alt="Networking" title="Networking" /></a>
-  <a href="https://www.microsoft.com/windows-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" title="Windows Server" /></a>
-</p>
+## // about · обо мне
 
-### Materials
+en: vocational college it teacher. training future network & system administrators, supervising academic and industrial practice. five years in education, hands on real infrastructure.
 
-* [база знаний](https://buildin.ai/itsliventsev/share/d4c77241-3bf4-47c7-b0d4-471321898c95)
-* [учебная практика](https://buildin.ai/itsliventsev/share/619ca0ce-9687-4734-b23f-d25e2ea8a205)
-* [производственная](https://buildin.ai/itsliventsev/share/97331c31-0f5d-4e47-84ac-9e9a4628274d)
-* [демоэкзамен](https://buildin.ai/itsliventsev/share/d073da4b-01a4-491c-9e01-22f0dfc31ac0)
-* [доска · демоэкзамен](https://boards.yandex.ru/whiteboard/?hash=b0700d9021371eb66e768c45777dd79d)
-* [доска · уп.01](https://boards.yandex.ru/whiteboard/?hash=3c1973643fe7db52a48d557e242fa763)
+ru: преподаю it в колледже. готовлю сетевых и системных администраторов, веду учебную и производственную практику. пять лет в обучении, параллельно работаю с реальной инфраструктурой.
 
-### Socials
+---
 
- <a href="https://t.me/itsliventsev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-@itsliventsev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="Telegram" /></a> <a href="https://vk.com/itsliventsev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VK-@itsliventsev-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" title="VK" /></a> </p>
+## // stack · стек
+
+```text
+languages      python · bash · c++ · php · html
+infrastructure linux · ubuntu · alt linux · docker · kubernetes · windows server
+network        cisco · ecorouter · postgresql · mysql · oracle
+tools          vs code · vim · arduino · photoshop · illustrator · premiere pro
+```
+
+---
+
+## // materials · материалы
+
+- [база знаний / knowledge base](https://buildin.ai/itsliventsev/share/d4c77241-3bf4-47c7-b0d4-471321898c95)
+- [учебная практика / academic practice](https://buildin.ai/itsliventsev/share/619ca0ce-9687-4734-b23f-d25e2ea8a205)
+- [производственная практика / industrial practice](https://buildin.ai/itsliventsev/share/97331c31-0f5d-4e47-84ac-9e9a4628274d)
+- [демоэкзамен / demo exam](https://buildin.ai/itsliventsev/share/d073da4b-01a4-491c-9e01-22f0dfc31ac0)
+- [доска · демоэкзамен / board · demo exam](https://boards.yandex.ru/whiteboard/?hash=b0700d9021371eb66e768c45777dd79d)
+- [доска · уп.01 / board · up.01](https://boards.yandex.ru/whiteboard/?hash=3c1973643fe7db52a48d557e242fa763)
+
+---
+
+## // contact · контакты
+
+[telegram](https://t.me/itsliventsev) · [vk](https://vk.com/itsliventsev) · [github](https://github.com/ItsLiventsev) · [email](mailto:livencev01@ya.ru) · [edu](mailto:liventsevka@edu.mos.ru)
+
+---
+
+<sub>© 2026 itsliventsev · 🦀</sub>
