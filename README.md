@@ -23,6 +23,15 @@ Vocational training instructor at a college. I train future Network & System Adm
   <a href="https://www.microsoft.com/windows-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" title="Windows Server" /></a>
 </p>
 
+### Materials
+
+* [база знаний](https://buildin.ai/itsliventsev/share/d4c77241-3bf4-47c7-b0d4-471321898c95)
+* [учебная практика](https://buildin.ai/itsliventsev/share/619ca0ce-9687-4734-b23f-d25e2ea8a205)
+* [производственная](https://buildin.ai/itsliventsev/share/97331c31-0f5d-4e47-84ac-9e9a4628274d)
+* [демоэкзамен](https://buildin.ai/itsliventsev/share/d073da4b-01a4-491c-9e01-22f0dfc31ac0)
+* [доска · демоэкзамен](https://boards.yandex.ru/whiteboard/?hash=b0700d9021371eb66e768c45777dd79d)
+* [доска · уп.01](https://boards.yandex.ru/whiteboard/?hash=3c1973643fe7db52a48d557e242fa763)
+
 ### Socials
 
  <a href="https://t.me/itsliventsev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Telegram-@itsliventsev-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="Telegram" /></a> <a href="https://vk.com/itsliventsev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VK-@itsliventsev-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" title="VK" /></a> </p>
