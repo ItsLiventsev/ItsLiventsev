@@ -40,7 +40,7 @@ tools          vs code · vim · arduino · photoshop · illustrator · premiere
 
 ## // contact · контакты
 
-[telegram](https://t.me/itsliventsev) · [vk](https://vk.com/itsliventsev) · [github](https://github.com/ItsLiventsev) · [email](mailto:livencev01@ya.ru) · [edu](mailto:liventsevka@edu.mos.ru)
+[website](https://itsliventsev.github.io) · [github](https://github.com/ItsLiventsev) · [email](mailto:livencev01@ya.ru) · [edu](mailto:liventsevka@edu.mos.ru)
 
 ---
 
