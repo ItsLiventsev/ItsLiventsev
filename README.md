@@ -4,7 +4,7 @@
 
 *мастер производственного обучения · преподаватель it · сетевой и системный администратор*
 
-[website](https://itsliventsev.github.io) · [articles](https://itsliventsev.github.io/articles.html) · [archive](https://itsliventsev.github.io/archive.html) · [hh.ru](http://hh.ru/resume/5c7f23d7ff103dec010039ed1f746167696c67?print=true)
+[website](https://itsliventsev.github.io) · [articles](https://itsliventsev.github.io/articles.html) · [archive](https://itsliventsev.github.io/archive.html) · [hh.ru](http://hh.ru/resume/5c7f23d7ff103dec010039ed1f746167696c67?print=true) · [stands](https://itsliventsev.github.io/stands/index.html)
 
 ---
 
